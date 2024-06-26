@@ -21,7 +21,7 @@ def download_model_from_github(url, output_path):
         return False
 
 # Define the GitHub URL and local model path
-github_url = "https://github.com/tar37583/Stock-Price-Web-App/blob/main/Stock%20Predictions%20Model.keras"
+github_url = "https://github.com/tar37583/Stock-Price-Web-App/blob/d5190121d337ff6008c186ce509b8dfcfb7f9879/Stock%20Predictions%20Model.keras"
 local_model_path = "downloaded_model.keras"
 
 # Download and load the model
